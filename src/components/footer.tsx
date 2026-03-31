@@ -16,20 +16,20 @@ function Footer() {
       data-map-control
     >
       <a
-        href="https://github.com/YeShengDe/AddressGeneratorFe"
+        href="https://www.caowo.de"
         target="_blank"
         className=" mr-1"
         rel="noopener noreferrer"
       >
-        <span className="underline-hover">Github</span>
+        <span className="underline-hover">官方网站</span>
       </a>
       <a
-        href="https://onenav.twaliray.com/store"
+        href="https://ruanzhu.caowo.de"
         target="_blank"
         className=" mr-1"
         rel="noopener noreferrer"
       >
-        <span className="underline-hover">Onenav</span>
+        <span className="underline-hover">商务合作</span>
       </a>
       <div className=" h-full flex justify-center items-center ">
         © 2023 - {dayjs().format('YYYY')} {hostname} All rights reserved.

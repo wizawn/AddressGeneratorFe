@@ -17,6 +17,8 @@
 
 中文 | [English](https://github.com/YeShengDe/AddressGeneratorFe/blob/main/docs/README_en.md)
 
+> 定制化版本：https://www.caowo.de | 商务合作：https://ruanzhu.caowo.de
+
 ## ✨ 功能特性
 
 - 🗺️ **基于 Google 地图，真实地理数据**：生成的地址均为实际存在的真实地点
