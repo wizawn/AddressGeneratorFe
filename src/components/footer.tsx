@@ -24,12 +24,12 @@ function Footer() {
         <span className="underline-hover">官方网站</span>
       </a>
       <a
-        href="https://ruanzhu.caowo.de"
+        href="https://blog.caowo.de"
         target="_blank"
         className=" mr-1"
         rel="noopener noreferrer"
       >
-        <span className="underline-hover">商务合作</span>
+        <span className="underline-hover">博客</span>
       </a>
       <div className=" h-full flex justify-center items-center ">
         © 2023 - {dayjs().format('YYYY')} {hostname} All rights reserved.
